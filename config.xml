@@ -98,6 +98,8 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <allow-navigation href="http://phanta-soft.com*" />
+
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>

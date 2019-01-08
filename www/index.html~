@@ -43,16 +43,7 @@
 </head>
 
 <body>
-   <div>
-  
-<script type="text/javascript" charset="utf-8">
-                document.addEventListener("deviceready", onDeviceReady, false);
-
-                function onDeviceReady() {
-                     window.open('http://phanta-soft.com', '_self ', 'location=yes');
-                }
-</script>
- </div>
+window.open('http://www.phanta-soft.com', '_system');
 </body>
 
 </html>
